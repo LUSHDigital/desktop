@@ -5,11 +5,12 @@ I confirm (by marking "x" in the [ ] below):
 
 ---
 
-*Summary*
-
+**Summary**
+<!--
 Issue in one concise sentence.
+-->
 
-*Steps to reproduce*
+**Steps to reproduce**
 
 <!--
 Please include: 
@@ -19,15 +20,15 @@ Please include:
 - Clear steps to reproduce the issue
 -->
 
-*Expected behavior*
+**Expected behavior**
 
-*Observed behavior*
+**Observed behavior**
 
 <!--
 Please include relevant error messages and/or screenshots.
 -->
 
-*Possible fixes*
+**Possible fixes**
 
 <!--
 If you can, link to the line of code that might be responsible for the problem.
